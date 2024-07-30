@@ -1,0 +1,26 @@
+{
+  "name": "js-loops-with-recursion",
+  "version": "0.2.0",
+  "description": "Implemented javascript loops by using recursion technique",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faizqadri234/JS-loops-with-recursion.git"
+  },
+  "keywords": [
+    "js-loops",
+    "fast-loops",
+    "flexible-loops",
+    "loops-with-recursion",
+    "js-loops-with-recursion"
+  ],
+  "author": "Muhammad Faiz <faizqadri234@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/faizqadri234/JS-loops-with-recursion/issues"
+  },
+  "homepage": "https://github.com/faizqadri234/JS-loops-with-recursion#readme"
+}
